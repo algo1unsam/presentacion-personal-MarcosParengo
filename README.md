@@ -2,11 +2,10 @@
 Estudiante del 2do año de la tecnicatura de programacion universitaria en la _UnSam_
 ## Legajo: CYT-11663
 
-<img src="/profilePicture/photo.jpg" alt="Profile poc" width="200"/>
 
-Inline-style: 
+A ver un poco de texto: 
 
-![alt text](/profilePicture/photo.jpg "Yo con miku, el gatito mas bonito del mundo")
+![alt text](https://raw.githubusercontent.com/algo1unsam/presentacion-personal-MarcosParengo/master/profilePicture/photo.jpg "Yo con miku, el gatito mas bonito del mundo")
 
 
 #### Notas
