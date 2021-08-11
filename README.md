@@ -1,7 +1,7 @@
 # Marcos Parengo
 ## Número de legajo: 
 
-![](/profilePicture/photo.jpg)
+<img src="/profilePicture/photo.jpg" alt="drawing" width="200"/>
 
 ## Preview
 
